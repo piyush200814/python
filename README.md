@@ -1,2 +1,1 @@
-# python
-my python journy
+# Python Language
